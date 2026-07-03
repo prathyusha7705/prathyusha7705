@@ -48,3 +48,4 @@ Full-stack software engineer with 4+ years building production systems in fintec
 ## Let's connect
 - Email: prathyusha7705@gmail.com
 - Open to Software Engineer roles (Junior · Mid · Senior)
+- Based in Saint Louis, MO · Open to remote or hybrid
