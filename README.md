@@ -32,7 +32,7 @@ Full-stack software engineer with 4+ years building production systems in fintec
 
 | Project | What it is | Live | Stack |
 |---------|-----------|------|-------|
-| [realtime-analytics-dashboard](https://github.com/prathyusha7705/realtime-analytics-dashboard) | Live payment transaction monitor with real-time updates | [Demo](https://realtime-analytics-dashboard-three.vercel.app) | React, TypeScript, Redux |
+| [realtime-analytics-dashboard](https://github.com/prathyusha7705/realtime-analytics-dashboard) | Live payment transaction monitor with real-time updates | [Demo](https://prathyusha-fintech-dashboard.vercel.app/) | React, TypeScript, Redux |
 | [payment-gateway-api](https://github.com/prathyusha7705/payment-gateway-api) | Secure REST API for payment processing with Kafka event streaming | — | Java, Spring Boot, PostgreSQL, Kafka |
 | [postgres-performance-lab](https://github.com/prathyusha7705/postgres-performance-lab) | 475x query speedup — indexing and partitioning benchmarks | — | PostgreSQL |
 
