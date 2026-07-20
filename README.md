@@ -37,9 +37,10 @@ Full-stack software engineer with 4+ years building production systems in fintec
 | Project | What it is | Live | Stack |
 |---|---|---|---|
 | [realtime-analytics-dashboard](https://github.com/prathyusha7705/realtime-analytics-dashboard) | Live payment transaction monitor with real-time updates | [Demo](https://prathyusha-fintech-dashboard.vercel.app/) | React, TypeScript, Redux |
+| [Cartflow](https://github.com/prathyusha7705/Cartflow) | E-commerce checkout flow with live conversion-funnel timing analytics | [Demo](https://cartflow-checkout.vercel.app/) | React, TypeScript, Redux Toolkit, Vite |
 | [payment-gateway-api](https://github.com/prathyusha7705/payment-gateway-api) | Secure REST API for payment processing with Kafka event streaming | — | Java, Spring Boot, PostgreSQL, Kafka |
 | [postgres-performance-lab](https://github.com/prathyusha7705/postgres-performance-lab) | 475x query speedup — indexing and partitioning benchmarks | — | PostgreSQL |
-| [Cartflow](https://github.com/prathyusha7705/Cartflow) | E-commerce checkout flow with live conversion-funnel timing analytics | [Demo](https://cartflow-checkout.vercel.app/) | React, TypeScript, Redux Toolkit, Vite |
+
 
 ---
 
